@@ -1,0 +1,3 @@
+rootProject.name = 'Headlines'
+
+include ':app'
